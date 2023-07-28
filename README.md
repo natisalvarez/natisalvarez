@@ -2,9 +2,8 @@
 
 
 
-# 💫 About Me:
-
-Full stack web developer with content creation skills, which gives me a creative visual eye for front-end design and UX experience.
+# 💫 
+I am a full-stack web developer with content creation skills, which gives me a creative visual eye for front-end design and UX experience.
 I have been developing websites with different kinds of APIs, using NodeJS, React, Redux, SQL and other frameworks and libraries. 
 
 🔭 I’m currently working on an e-commerce project for Bonita&Lovely makeup brand, ensuring seamless user experience and secure backend functionality.<br>Our principal skills are React.js, Redux, Node.js, PostgreSQL, and more. 
@@ -12,7 +11,7 @@ I have been developing websites with different kinds of APIs, using NodeJS, Reac
 
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nattt#1037) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nataliasoledadalvarez/) 
 
