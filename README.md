@@ -3,10 +3,10 @@
 
 
 # 💫 
-I am a full-stack web developer with content creation skills, which gives me a creative visual eye for front-end design and UX experience.
-I have been developing websites with different kinds of APIs, using NodeJS, React, Redux, SQL and other frameworks and libraries. 
+I am a full-stack web developer with content creation skills, which gives me a strategic and creative vision for UI design.
+I have been developing websites with different APIs, using NodeJS, React, Redux, SQL and other frameworks and libraries. 
 
-🔭 I’m currently working on an e-commerce project for Bonita&Lovely makeup brand, ensuring seamless user experience and secure backend functionality.<br>Our principal skills are React.js, Redux, Node.js, PostgreSQL, and more. 
+🔭 I’m currently working on an e-commerce project for Bonita & Lovely makeup brand, ensuring seamless user experience and secure backend functionality.<br>Our principal skills are React.js, Redux, Node.js, PostgreSQL, and more. 
 
 
 
