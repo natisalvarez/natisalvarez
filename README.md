@@ -1,10 +1,7 @@
 ### Hi there, welcome to my GitHub👋!
 
-
-
-# 💫 
-I am a full-stack web developer with content creation skills, which gives me a strategic and creative vision for UI design.
-I have been developing websites using NodeJS, React, Redux, SQL, Vue, and other frameworks and libraries. 
+I am a software developer with content creation skills, which gives me a strategic and creative vision for UI design.
+I have been developing websites and software using mainly JavaScript, TypeScript, and C#. Some frameworks and libraries I've used are: NodeJS, React, Vite, Redux, Sequelize, Electron, and other frameworks and libraries. 
 
 
 ## 🌐 Social Media:
